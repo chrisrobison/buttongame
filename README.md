@@ -128,12 +128,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ### Christopher Robison 
 
-Twitter: [@thechrisrobison](https://twitter.com/thechrisrobison) 
-
-Email: [cdr@cdr2.com](mailto:cdr@cdr2.com);
-
-Website: [https://cdr2.com](https://cdr2.com)
-
+Twitter: [@thechrisrobison](https://twitter.com/thechrisrobison)<br>
+Email: [cdr@cdr2.com](mailto:cdr@cdr2.com)<br>
+Website: [https://cdr2.com](https://cdr2.com)<br>
 Project Link: [https://github.com/chrisrobison/buttongame](https://github.com/chrisrobison/buttongame)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
