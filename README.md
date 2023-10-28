@@ -8,7 +8,7 @@
 <h3 align="center">Bouncing Button Game</h3>
 
   <p align="center">
-    A nice little physics puzzle game I did some time ago for an online JS contest. To play, shoot the big red button and collect all the gold buttons. You have 3 shots. Collect them all and progress to the next level. If you fail, you will repeat the level again until you do it right. There are currently 20 levels but new levels are easily added.
+    A fun physics puzzle game made for an online JavaScript contest that has zero dependencies. 
     <br />
     <a href="https://github.com/chrisrobison/buttongame"><strong>Explore the docs »</strong></a>
     <br />
