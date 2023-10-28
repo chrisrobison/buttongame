@@ -2,7 +2,7 @@
 <a name="readme-top"></a>
 <div align="center">
   <a href="https://github.com/chrisrobison/buttongame">
-    <img src="img/buttongame-logo.jpg" alt="Logo" width="80" height="80">
+    <img src="img/buttongame-logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Bouncing Button Game</h3>
