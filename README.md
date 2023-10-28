@@ -10,10 +10,10 @@
   <p align="center">
     A fun physics puzzle game made for an online JavaScript contest that has zero dependencies. 
     <br />
-    <a href="https://github.com/chrisrobison/buttongame"><strong>Explore the docs »</strong></a>
+    <a href="https://bouncingbutton.com/doc/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/chrisrobison/buttongame">View Demo</a>
+    <a href="https://bouncingbutton.com/">View Demo</a>
     ·
     <a href="https://github.com/chrisrobison/buttongame/issues">Report Bug</a>
     ·
@@ -129,8 +129,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ### Christopher Robison 
 
 Twitter: [@thechrisrobison](https://twitter.com/thechrisrobison) 
+
 Email: [cdr@cdr2.com](mailto:cdr@cdr2.com);
+
 Website: [https://cdr2.com](https://cdr2.com)
+
 Project Link: [https://github.com/chrisrobison/buttongame](https://github.com/chrisrobison/buttongame)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
